@@ -1,2 +1,2 @@
 # AML-Project
-Group project done by: Aashi Aashi, Apurva Audi, Praneet Kumar Alamuri, Saumya Agrawal, Shreyansh Agrawal
+Group project done by Team 1: Aashi Aashi, Apurva Audi, Praneet Kumar Alamuri, Saumya Agrawal, Shreyansh Agrawal
